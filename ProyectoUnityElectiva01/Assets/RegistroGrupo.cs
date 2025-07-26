@@ -7,4 +7,5 @@ public class RegistroGrupo : MonoBehaviour
     //	Hora: [21:16]	
     //  Nombre completo: [Margarita Maria Martinez Camacho]
     //  Fecha: [26/07/2025]
+    //  Hora: [16:07]
 }
