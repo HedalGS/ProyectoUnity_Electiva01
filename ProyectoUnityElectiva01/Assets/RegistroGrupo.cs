@@ -8,4 +8,6 @@ public class RegistroGrupo : MonoBehaviour
     //  Nombre completo: [Margarita Maria Martinez Camacho]
     //  Fecha: [26/07/2025]
     //  Hora: [16:07]
+    // Nombre completo: [Daniel Hernando Gil Cusi]
+
 }
