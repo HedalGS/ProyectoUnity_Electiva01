@@ -9,5 +9,6 @@ public class RegistroGrupo : MonoBehaviour
     //  Fecha: [26/07/2025]
     //  Hora: [16:07]
     // Nombre completo: [Daniel Hernando Gil Cusi]
-
+    // Fecha [27/07/2025]
+    
 }
