@@ -30,7 +30,17 @@ public class TransformObject : MonoBehaviour
 
     public void TranslateDown()
     {
-        myObject.transform.Translate(Vector3.down * Time.deltaTime * 10, Space.World);
+        // Validacion para no atravesar el suelo
+        Vector3 currentPosition = myObject.transform.position;
+        if (currentPosition.y < 0)
+        {
+            currentPosition.y = 0;
+            myObject.transform.position = currentPosition;
+        }
+        else
+        {
+            myObject.transform.Translate(Vector3.down * Time.deltaTime * 10, Space.World);
+        }
     }
 
     public void TranslateLeft()
