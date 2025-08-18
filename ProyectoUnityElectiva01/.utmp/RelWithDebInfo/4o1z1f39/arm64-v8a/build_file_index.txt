@@ -1,0 +1,2 @@
+A:\u\videojuegos\Repos\ProyectoUnity_Electiva01\ProyectoUnityElectiva01\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+A:\u\videojuegos\Repos\ProyectoUnity_Electiva01\ProyectoUnityElectiva01\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

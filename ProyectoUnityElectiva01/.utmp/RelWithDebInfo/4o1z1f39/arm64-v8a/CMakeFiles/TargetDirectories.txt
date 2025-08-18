@@ -1,0 +1,5 @@
+A:/u/videojuegos/Repos/ProyectoUnity_Electiva01/ProyectoUnityElectiva01/.utmp/RelWithDebInfo/4o1z1f39/arm64-v8a/CMakeFiles/edit_cache.dir
+A:/u/videojuegos/Repos/ProyectoUnity_Electiva01/ProyectoUnityElectiva01/.utmp/RelWithDebInfo/4o1z1f39/arm64-v8a/CMakeFiles/rebuild_cache.dir
+A:/u/videojuegos/Repos/ProyectoUnity_Electiva01/ProyectoUnityElectiva01/.utmp/RelWithDebInfo/4o1z1f39/arm64-v8a/GameActivity/CMakeFiles/game.dir
+A:/u/videojuegos/Repos/ProyectoUnity_Electiva01/ProyectoUnityElectiva01/.utmp/RelWithDebInfo/4o1z1f39/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+A:/u/videojuegos/Repos/ProyectoUnity_Electiva01/ProyectoUnityElectiva01/.utmp/RelWithDebInfo/4o1z1f39/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
