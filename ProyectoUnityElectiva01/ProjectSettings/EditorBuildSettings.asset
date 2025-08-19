@@ -14,6 +14,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scene_Guia02.unity
     guid: 2701b9389f46f1e4382f61e938bcb933
+  - enabled: 1
+    path: Assets/Scenes/Scene_Touch.unity
+    guid: c0578ab9440ebec438e8f577e5afe02b
+  - enabled: 1
+    path: Assets/Scenes/Scene_MultiTouch.unity
+    guid: 111acbd541259484da5e1647542a1e7f
+  - enabled: 1
+    path: Assets/Scenes/Scene_VirtualPad.unity
+    guid: 0d27e92294f280a4d9f8a0450c0daabe
+  - enabled: 1
+    path: Assets/Scenes/Scene_Accelerometer.unity
+    guid: 306328a4f51ee224ba3d731d9cd0c781
+  - enabled: 1
+    path: Assets/Scenes/Scene_Gestures.unity
+    guid: b974fa94b75a40c4f8d4790ba684b25e
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
