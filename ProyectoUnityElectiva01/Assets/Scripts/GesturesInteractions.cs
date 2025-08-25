@@ -73,11 +73,11 @@ public class GesturesInteractions : MonoBehaviour
                         Debug.Log(myTouchY > 0 ? "Up" : "Down");
                         if (myTouchY > 0)
                         {
-                            myObject.transform.Rotate(1, 0, 0);
+                            myObject.transform.Rotate(5, 0, 0);
                         }
                         else if (myTouchY < 0)
                         {
-                            myObject.transform.Rotate(-1, 0, 0);
+                            myObject.transform.Rotate(-5, 0, 0);
                         }
                     }
                 }
