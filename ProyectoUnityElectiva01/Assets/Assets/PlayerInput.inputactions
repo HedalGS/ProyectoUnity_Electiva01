@@ -1,5 +1,54 @@
 {
     "name": "PlayerInput",
-    "maps": [],
+    "maps": [
+        {
+            "name": "Capsule",
+            "id": "c5d50711-8d42-4ded-99cf-ee63f37d9532",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Value",
+                    "id": "3eeaee98-1291-4fb6-9896-90b91db9fa0d",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "PointerPosition",
+                    "type": "Value",
+                    "id": "78c57729-08e6-4281-b479-82ef6d770dce",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e1c814db-21a2-4e7b-b075-7c0d3c8c20e6",
+                    "path": "<Gamepad>/leftStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cf97a0b8-12d3-4074-996d-13daa54dd05d",
+                    "path": "<Pointer>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PointerPosition",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
     "controlSchemes": []
 }
